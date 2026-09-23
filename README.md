@@ -414,13 +414,7 @@ Learn something from it.
 
 ---
 
-## ⭐ One Practical at a Time.
-
-## One Concept at a Time.
-
-## One Dataset at a Time.
-
-### And hopefully... fewer "Why is this happening?" moments. 😂
+## ⭐ One Practical at a Time. ## One Concept at a Time. ## One Dataset at a Time. ### And hopefully... fewer "Why is this happening?" moments. 😂
 
 ---
 
