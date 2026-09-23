@@ -16,7 +16,7 @@
 
 ## 👋 Welcome!
 
-This repository is my **personal learning space for IBM SPSS Modeler**.
+This repository is Shiksha's **personal learning space for IBM SPSS Modeler**.
 
 I use this repository to upload and document:
 
