@@ -1,429 +1,432 @@
-# 📊 SPSS Modeler — My Learning Journey
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IBM-SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Learning-In%20Progress-FFA500?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hands--On-Practicals-6C63FF?style=for-the-badge">
-</p>
+# 📊 SPSS Modeler
 
 <p align="center">
 
-### 🧠 Learn → Practice → Experiment → Document → Repeat 🔁
+## 🎢 Welcome to My SPSS Modeler Life
+
+**Where data gets messy, practicals get confusing, and somehow... we learn. 😂**
+
+<img src="https://img.shields.io/badge/IBM-SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/Learning-Live%20%26%20Kicking-00A67E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Practicals-Loading...-FFB000?style=for-the-badge">
 
 </p>
 
 ---
 
-## 👋 Welcome!
+## 🫠 How Did I End Up Here?
 
-This repository is Shiksha's **personal learning space for IBM SPSS Modeler**.
+It started with something simple:
 
-I use this repository to upload and document:
+> **"Let's learn SPSS Modeler."**
 
-* 📚 Things I learn
-* 🧪 Practical work
-* 🧩 SPSS Modeler streams
-* 📊 Dataset experiments
-* 📝 Notes and explanations
-* 📸 Screenshots of my work
-* 💡 Interesting observations
-* 🛠️ Mistakes, fixes and things I figure out along the way
-
-In short:
-
-> **If I learn it or practice it in SPSS Modeler, there's a good chance I'll put it here.** 😄
-
----
-
-# 🧭 What's Inside?
-
-This repository will keep changing as I learn more.
-
-| 📁 Content         | What you'll find                           |
-| ------------------ | ------------------------------------------ |
-| 📚 **Learnings**   | Concepts and things I learn                |
-| 🧪 **Practicals**  | Practical exercises and assignments        |
-| 📊 **Datasets**    | Datasets used during practice              |
-| 🧩 **Streams**     | SPSS Modeler stream files                  |
-| 📸 **Screenshots** | Visual records of my work                  |
-| 📝 **Notes**       | Explanations, observations and quick notes |
-
----
-
-# 🧠 What I'm Learning
-
-My SPSS Modeler journey currently includes topics such as:
+And then...
 
 ```text
-📥 Data Import
+Learn SPSS
+     ↓
+Open SPSS
+     ↓
+See 27 different nodes
+     ↓
+👁️👄👁️
+     ↓
+Try one node
+     ↓
+Something happens
+     ↓
+"Interesting..."
+     ↓
+Try another one
+     ↓
+Something else happens
+     ↓
+"WHY?!"
+     ↓
+Search
+     ↓
+Understand
+     ↓
+📚 Learn something new
+     ↓
+Repeat 🔁
+```
+
+And that's basically this repository. 😂
+
+---
+
+# 🎒 What's Inside My SPSS Bag?
+
+This repository is where I keep the things I learn and practice while exploring **IBM SPSS Modeler**.
+
+You'll find:
+
+📚 **Learnings** — things I understand today that I didn't understand yesterday.
+
+🧪 **Practicals** — the actual work I do.
+
+📊 **Datasets** — the innocent-looking files that sometimes cause chaos.
+
+🧩 **Streams** — my SPSS Modeler experiments.
+
+📸 **Screenshots** — proof that I actually did something. 👀
+
+📝 **Notes** — because future me will definitely forget.
+
+---
+
+# 🧠 Things I'm Slowly Figuring Out
+
+Currently exploring:
+
+```text
+📥 Import Data
       ↓
-🔍 Understanding Data
+🔍 Understand Data
       ↓
 🧪 Data Audit
       ↓
-🏷️ Type & Field Roles
+🏷️ Type
       ↓
-🔎 Filtering
+🔎 Filter
       ↓
-➕ Deriving Fields
+➕ Derive
       ↓
-🔄 Reclassifying Data
+🔄 Reclassify
       ↓
-✂️ Partitioning
+✂️ Partition
       ↓
-📊 Data Analysis
+📊 Analyze
       ↓
-🤖 Predictive Modeling
+🤖 Model
       ↓
-📈 Evaluation
+📈 Evaluate
+      ↓
+🎉 Celebrate
 ```
 
-And yes...
-
-> **I'm learning one node at a time. Literally. 🧩😂**
+That last step is very important.
 
 ---
 
-# 🧪 My Practicals
+# 🧪 My Practical Life
 
-This is where my actual hands-on work lives.
+Every practical basically follows the same emotional cycle:
 
-Each practical is an opportunity to take what I've learned and actually use it.
+### 1️⃣ Confidence
 
-<details>
-<summary>📌 Click to see the kind of work I upload</summary>
+> "Yeah, I know this."
 
-<br>
+### 2️⃣ Open SPSS
 
-### 🔹 Data Preparation
+> "Okay... where do I start?"
 
-Working with nodes such as:
+### 3️⃣ First error
 
-* `Type`
-* `Filter`
-* `Derive`
-* `Reclassify`
-* `Partition`
+> "Hmm. Small problem."
 
-### 🔹 Data Understanding
+### 4️⃣ Second error
 
-Practicing:
+> "Okay."
 
-* Data Audit
-* Missing-value analysis
-* Field analysis
-* Basic statistics
-* Data distributions
+### 5️⃣ Third error
 
-### 🔹 Data Analysis
+> "SPSS, we need to talk."
 
-Exploring datasets to understand:
+### 6️⃣ Finally works
 
-* Patterns
-* Relationships
-* Distributions
-* Important variables
+> **"LET'S GOOOOOOO! 🚀"**
 
-### 🔹 Predictive Analytics
+### 7️⃣ Save everything
 
-As I progress, I'll also document:
+> `practical_final.str`
 
-* Model building
-* Model comparison
-* Prediction
-* Evaluation
-* Interpretation
+Then...
 
-</details>
+> `practical_final_final.str`
+
+Then...
+
+> `practical_final_final_REAL.str` 😭
 
 ---
 
-# 📊 Practical → Learning
-
-One thing I want this repository to show is **what I actually learned from each practical**, not just the final `.str` file.
-
-For example:
-
-```text
-🧪 Practical
-      ↓
-"What am I supposed to do?"
-      ↓
-🤔 Experiment
-      ↓
-"Why did SPSS do THAT?"
-      ↓
-🔍 Understand
-      ↓
-💡 Learn
-      ↓
-📁 Upload
-      ↓
-"Okay... now it makes sense."
-```
-
-😂
-
----
-
-# 📚 My Learning Log
-
-I'll keep adding important concepts and discoveries here as I learn them.
-
-| Topic                  | Status |
-| ---------------------- | :----: |
-| 📥 Data Import         |   🟢   |
-| 🧪 Data Audit          |   🟢   |
-| 🏷️ Type Node          |   🟢   |
-| 🔎 Filter Node         |   🟢   |
-| ➕ Derive Node          |   🟢   |
-| 🔄 Reclassify Node     |   🟢   |
-| ✂️ Partition Node      |   🟢   |
-| 📊 Data Exploration    |   🟡   |
-| 🤖 Predictive Modeling |   🟡   |
-| 📈 Model Evaluation    |   🔴   |
-| 🧠 Advanced Analytics  |   🔴   |
-
-**Legend**
-
-🟢 Learned / Practiced
-🟡 Currently Learning
-🔴 Yet to Explore
-
----
-
-# 📂 Repository Structure
-
-The structure may evolve as my learning grows.
+# 📂 My Little Data World
 
 ```text
 SPSS_Modeler/
 │
-├── 📚 Learnings/
-│   ├── data_audit/
-│   ├── type_node/
-│   ├── filter_node/
-│   ├── derive_node/
-│   └── ...
+├── 📚 Learnings
 │
-├── 🧪 Practicals/
-│   ├── practical_01/
-│   ├── practical_02/
-│   ├── practical_03/
-│   └── ...
+├── 🧪 Practicals
 │
-├── 📊 Datasets/
-│   ├── hotel_bookings.csv
-│   └── ...
+├── 📊 Datasets
 │
-├── 🧩 Streams/
-│   ├── practical_01.str
-│   ├── practical_02.str
-│   └── ...
+├── 🧩 Streams
 │
-├── 📸 Screenshots/
-│   ├── practical_01/
-│   ├── practical_02/
-│   └── ...
+├── 📸 Screenshots
 │
-└── README.md
+└── 📝 Notes
 ```
+
+Nothing fancy.
+
+Just **my learning journey, one file at a time.**
 
 ---
 
-# 🏨 Example: Dataset Practice
+# 🏨 One of My Practice Adventures
 
-One of the datasets I work with during my learning is the **Hotel Bookings dataset**.
+### Hotel Bookings 🏨📊
 
-Instead of just keeping the dataset, I use it to practice different SPSS Modeler concepts.
+A dataset enters my life.
+
+At first:
+
+> "Oh, hotel bookings. Easy."
+
+Then I open the dataset:
+
+> **"Oh."**
+
+Then I discover the number of columns:
+
+> **"OH."** 😭
+
+And then the real journey begins:
 
 ```text
-Hotel Bookings Dataset
-          │
-          ▼
-      📥 Import
-          │
-          ▼
-      🧪 Data Audit
-          │
-          ▼
-       🏷️ Type
-          │
-          ▼
-       🔎 Filter
-          │
-          ▼
-       ➕ Derive
-          │
-          ▼
-     🔄 Reclassify
-          │
-          ▼
-      ✂️ Partition
-          │
-          ▼
-    📊 Analysis
+🏨 Hotel Bookings
+        ↓
+📥 Import
+        ↓
+🔍 Explore
+        ↓
+🧪 Data Audit
+        ↓
+🏷️ Type
+        ↓
+🔎 Filter
+        ↓
+➕ Derive
+        ↓
+🔄 Reclassify
+        ↓
+✂️ Partition
+        ↓
+📊 Analyze
+        ↓
+🧠 Learn
 ```
 
-The important part isn't just the final result.
+And somewhere along the way:
 
-It's the **learning that happens while getting there.** 🧠
+> **"Wait... I'm actually starting to understand this."**
 
----
-
-# 😂 Things You May Find Here
-
-### Before SPSS:
-
-> "This dataset looks simple."
-
-### After opening it:
-
-> "Why are there 30+ columns?" 😭
+That's the good part. ❤️
 
 ---
 
-### When the stream finally works:
-
-> **IT WORKS! 🎉**
-
-### Five minutes later:
-
-> "Wait... why does it work?" 💀
-
----
-
-### When Data Audit finds something unexpected:
-
-> **Data:** "Surprise!"
-> **Me:** "I didn't ask for surprises." 😭
-
----
-
-# 🎯 Why I'm Keeping This Repository
-
-I'm not creating this repository just to store files.
-
-I'm using it as a **record of my learning journey**.
-
-It helps me:
-
-* Keep my practical work organized
-* Revisit concepts later
-* Track what I've learned
-* Understand my mistakes
-* Practice consistently
-* Build a reference for future projects
-* See how my skills improve over time
-
-Basically:
-
-> **GitHub = my SPSS Modeler notebook, but with version control. 😎**
-
----
-
-# 🚀 This Repository Is a Work in Progress
-
-This repository will **grow continuously**.
-
-As I learn new concepts, complete new practicals, or experiment with new datasets, I'll keep adding them here.
-
-So don't expect everything to be here at once.
+# 🎮 SPSS Modeler — My Current Skill Tree
 
 ```text
-Today
-  ↓
-📚 Learn
-  ↓
-🧪 Practice
-  ↓
-📁 Upload
-  ↓
-🔁 Repeat
-  ↓
-Tomorrow
-  ↓
-🧠 Know More
+                    🧠 SPSS MODELER
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+      📥 DATA         🧹 PREP        📊 ANALYSIS
+          │              │              │
+          ↓              ↓              ↓
+       Import         Filter         Explore
+       Audit          Derive         Patterns
+       Type           Reclassify     Insights
+                      Partition
+                         │
+                         ▼
+                    🤖 MODELING
+                         │
+                         ▼
+                    📈 EVALUATION
+                         │
+                         ▼
+                      🚀 NEXT
 ```
 
----
-
-# 🌱 Learning > Perfection
-
-Some files here may be simple.
-
-Some may be messy.
-
-Some may show experiments.
-
-Some may show mistakes.
-
-And that's completely okay.
-
-Because this repository is not trying to say:
-
-> **"I already know everything about SPSS Modeler."**
-
-It's saying:
-
-> **"I'm learning, I'm practicing, and I'm documenting the journey."** 🚀
+**Skill unlocked:** 🧩 One node at a time.
 
 ---
 
-# 🧠 Current Mindset
+# 😂 Things SPSS Has Taught Me
+
+### 🥇 Lesson #1
+
+**Data is never as clean as it looks.**
+
+---
+
+### 🥈 Lesson #2
+
+**There is always one column that makes everything weird.**
+
+---
+
+### 🥉 Lesson #3
+
+If something doesn't work:
 
 ```text
-Don't just use the node.
-             ↓
-Understand the node.
-             ↓
-Don't just get the output.
-             ↓
-Understand the output.
-             ↓
-Don't just finish the practical.
-             ↓
-Learn something from it.
+Don't panic.
+     ↓
+Check the node.
+     ↓
+Check the data.
+     ↓
+Check the settings.
+     ↓
+Try again.
+     ↓
+Still doesn't work?
+     ↓
+Google. 😭
 ```
 
 ---
 
-# 📈 The Journey
+### 🏆 Most Important Lesson
+
+> **Understanding what you're doing is more important than simply getting the output.**
+
+---
+
+# 📈 My Progress
+
+Not a competition.
+
+Not a race.
+
+Just me getting a little better every time I open SPSS.
+
+```text
+Day 01    😵 "What's a node?"
+     ↓
+Day 05    🤔 "Okay... I get it."
+     ↓
+Day 10    😎 "I can build this."
+     ↓
+Day 20    🧠 "Why did this model do that?"
+     ↓
+Day 30    🚀 "Let's try something harder."
+```
+
+---
+
+# 📝 Why I'm Keeping This Here
+
+Because one day I'll look back at this repository and hopefully think:
+
+> **"Wow... I really started from there."**
+
+These files aren't just assignments.
+
+They're little snapshots of my learning.
+
+Some will be simple.
+
+Some will be messy.
+
+Some will probably make me wonder:
+
+> **"What was I even doing here?"** 😂
+
+But that's part of learning.
+
+---
+
+# 🌱 Learning in Public
+
+I'm not trying to make this repository look like:
+
+> ❌ "I know everything about SPSS Modeler."
+
+Instead:
+
+> ✅ **"I'm learning SPSS Modeler, practicing it, and keeping track of the journey."**
+
+And honestly...
+
+That's much more fun.
+
+---
+
+# 🔮 What's Next?
+
+More datasets.
+
+More practicals.
+
+More experiments.
+
+More concepts.
+
+More:
+
+> **"Wait... why isn't this working?"**
+
+And hopefully more:
+
+> **"OH! NOW I GET IT!"** 🎉
+
+---
+
+# 🎢 Life of a Data Learner
+
+```text
+        📚 LEARN
+           ↓
+        🧪 TRY
+           ↓
+        🤔 CONFUSED
+           ↓
+        🔍 SEARCH
+           ↓
+        💡 UNDERSTAND
+           ↓
+        😎 PRACTICE
+           ↓
+        📁 UPLOAD
+           ↓
+        🚀 IMPROVE
+           ↓
+        🔁 REPEAT
+```
+
+Because apparently...
+
+### **Learning data science is not a straight line.**
+
+It's a roller coaster. 🎢
+
+And I'm enjoying the ride.
+
+---
 
 <p align="center">
 
-### 📚 Learn
+## 📊 Data + 🧠 Curiosity + 😂 A Little Chaos
 
-**↓**
+### = My SPSS Modeler Journey
 
-### 🧪 Practice
+<br>
 
-**↓**
-
-### 🔍 Understand
-
-**↓**
-
-### 📝 Document
-
-**↓**
-
-### 🚀 Improve
+**Learning. Practicing. Experimenting. Having fun. 🚀**
 
 </p>
 
 ---
 
-## ⭐ One Practical at a Time. ## One Concept at a Time. ## One Dataset at a Time. ### And hopefully... fewer "Why is this happening?" moments. 😂
-
----
-
 <p align="center">
 
-**Made while learning IBM SPSS Modeler. 📊🧠**
-
-<br>
-
-`Learning in public • Practicing • Experimenting • Improving`
+<sub>⭐ This repository will keep growing as I do.</sub>
 
 </p>
