@@ -1,423 +1,435 @@
-# 📊 SPSS Modeler — Data Mining Playground
+# 📊 SPSS Modeler — My Learning Journey
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/IBM-SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS Modeler"/>
-
-<img src="https://img.shields.io/badge/Data%20Mining-Learning-6C63FF?style=for-the-badge" alt="Data Mining"/>
-
-<img src="https://img.shields.io/badge/Predictive%20Analytics-Exploring-00A67E?style=for-the-badge" alt="Predictive Analytics"/>
-
-<img src="https://img.shields.io/badge/Status-🚧%20Learning-FFA500?style=for-the-badge" alt="Learning"/>
-
+  <img src="https://img.shields.io/badge/IBM-SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning-In%20Progress-FFA500?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hands--On-Practicals-6C63FF?style=for-the-badge">
 </p>
 
 <p align="center">
-  <b>Turning raw data into insights — one node at a time. 🧩📊</b>
+
+### 🧠 Learn → Practice → Experiment → Document → Repeat 🔁
+
 </p>
 
 ---
 
-## 👋 Welcome to My SPSS Modeler Playground!
+## 👋 Welcome!
 
-This repository contains my **hands-on work, practicals, experiments, datasets, and learning journey with IBM SPSS Modeler**.
+This repository is my **personal learning space for IBM SPSS Modeler**.
 
-The goal is simple:
+I use this repository to upload and document:
 
-> **Take messy data → understand it → prepare it → analyze it → build models → learn something useful.**
+* 📚 Things I learn
+* 🧪 Practical work
+* 🧩 SPSS Modeler streams
+* 📊 Dataset experiments
+* 📝 Notes and explanations
+* 📸 Screenshots of my work
+* 💡 Interesting observations
+* 🛠️ Mistakes, fixes and things I figure out along the way
 
-Or, in student language:
+In short:
 
-> **Give SPSS the data and ask: "Bhai, isme kuch pattern hai kya?" 😭📊**
-
-Sometimes the answer is surprisingly useful. 😂
-
----
-
-## 🧠 What is This Repository?
-
-This is my personal collection of work done while learning **IBM SPSS Modeler and Predictive Analytics**.
-
-Here you'll find practical work involving:
-
-* 📥 Data Import
-* 🔍 Data Understanding
-* 🧪 Data Audit
-* 🏷️ Data Type Definition
-* 🧹 Data Preparation
-* 🔎 Filtering
-* ➕ Deriving New Fields
-* 🔄 Reclassification
-* ✂️ Data Partitioning
-* 📊 Exploratory Analysis
-* 🤖 Predictive Modeling
-* 📈 Model Evaluation
-* 🧠 Pattern Discovery
-* 📚 Dataset-based Assignments
-
-This repository will continue to grow as I learn and complete more SPSS Modeler work.
+> **If I learn it or practice it in SPSS Modeler, there's a good chance I'll put it here.** 😄
 
 ---
 
-# 🗺️ Repository Navigation
+# 🧭 What's Inside?
 
-| Section           | What's Inside                        |
-| ----------------- | ------------------------------------ |
-| 📂 `datasets/`    | Datasets used for practicals         |
-| 📊 `practicals/`  | SPSS Modeler practical work          |
-| 🧩 `streams/`     | `.str` / SPSS Modeler stream files   |
-| 📸 `screenshots/` | Screenshots of workflows and outputs |
-| 📝 `notes/`       | Learning notes and explanations      |
-| 📄 `README.md`    | You are here 👀                      |
+This repository will keep changing as I learn more.
+
+| 📁 Content         | What you'll find                           |
+| ------------------ | ------------------------------------------ |
+| 📚 **Learnings**   | Concepts and things I learn                |
+| 🧪 **Practicals**  | Practical exercises and assignments        |
+| 📊 **Datasets**    | Datasets used during practice              |
+| 🧩 **Streams**     | SPSS Modeler stream files                  |
+| 📸 **Screenshots** | Visual records of my work                  |
+| 📝 **Notes**       | Explanations, observations and quick notes |
 
 ---
 
-# 🧩 My SPSS Modeler Learning Map
+# 🧠 What I'm Learning
+
+My SPSS Modeler journey currently includes topics such as:
 
 ```text
-                    📊 SPSS MODELER
-                         │
-                         ▼
-                  📥 Import Data
-                         │
-                         ▼
-                   🔍 Understand
-                         │
-                         ▼
-                    🧪 Data Audit
-                         │
-                         ▼
-                  🏷️ Define Types
-                         │
-                         ▼
-                    🧹 Prepare
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-           Filter      Derive    Reclassify
-              │          │          │
-              └──────────┼──────────┘
-                         ▼
-                    ✂️ Partition
-                         │
-                         ▼
-                   📊 Explore Data
-                         │
-                         ▼
-                    🤖 Build Model
-                         │
-                         ▼
-                    📈 Evaluate
-                         │
-                         ▼
-                  💡 Find Insights
+📥 Data Import
+      ↓
+🔍 Understanding Data
+      ↓
+🧪 Data Audit
+      ↓
+🏷️ Type & Field Roles
+      ↓
+🔎 Filtering
+      ↓
+➕ Deriving Fields
+      ↓
+🔄 Reclassifying Data
+      ↓
+✂️ Partitioning
+      ↓
+📊 Data Analysis
+      ↓
+🤖 Predictive Modeling
+      ↓
+📈 Evaluation
 ```
 
-### The basic philosophy:
+And yes...
 
-> **Don't build a model before understanding your data.**
-
-Because...
-
-```text
-Bad Data
-   ↓
-Fancy Model
-   ↓
-Fancy Wrong Answer
-   ↓
-😭
-```
+> **I'm learning one node at a time. Literally. 🧩😂**
 
 ---
 
-# 🛠️ Concepts I'm Learning
+# 🧪 My Practicals
 
-### 📥 1. Data Import
+This is where my actual hands-on work lives.
 
-Learning how to bring datasets into SPSS Modeler and work with different data formats.
+Each practical is an opportunity to take what I've learned and actually use it.
 
----
+<details>
+<summary>📌 Click to see the kind of work I upload</summary>
 
-### 🔍 2. Data Audit
+<br>
 
-Using the **Data Audit node** to investigate:
+### 🔹 Data Preparation
 
-* Missing values
-* Invalid values
-* Data distributions
+Working with nodes such as:
+
+* `Type`
+* `Filter`
+* `Derive`
+* `Reclassify`
+* `Partition`
+
+### 🔹 Data Understanding
+
+Practicing:
+
+* Data Audit
+* Missing-value analysis
+* Field analysis
 * Basic statistics
-* Field characteristics
-* Potential data-quality issues
+* Data distributions
+
+### 🔹 Data Analysis
+
+Exploring datasets to understand:
+
+* Patterns
+* Relationships
+* Distributions
+* Important variables
+
+### 🔹 Predictive Analytics
+
+As I progress, I'll also document:
+
+* Model building
+* Model comparison
+* Prediction
+* Evaluation
+* Interpretation
+
+</details>
+
+---
+
+# 📊 Practical → Learning
+
+One thing I want this repository to show is **what I actually learned from each practical**, not just the final `.str` file.
+
+For example:
+
+```text
+🧪 Practical
+      ↓
+"What am I supposed to do?"
+      ↓
+🤔 Experiment
+      ↓
+"Why did SPSS do THAT?"
+      ↓
+🔍 Understand
+      ↓
+💡 Learn
+      ↓
+📁 Upload
+      ↓
+"Okay... now it makes sense."
+```
+
+😂
+
+---
+
+# 📚 My Learning Log
+
+I'll keep adding important concepts and discoveries here as I learn them.
+
+| Topic                  | Status |
+| ---------------------- | :----: |
+| 📥 Data Import         |   🟢   |
+| 🧪 Data Audit          |   🟢   |
+| 🏷️ Type Node          |   🟢   |
+| 🔎 Filter Node         |   🟢   |
+| ➕ Derive Node          |   🟢   |
+| 🔄 Reclassify Node     |   🟢   |
+| ✂️ Partition Node      |   🟢   |
+| 📊 Data Exploration    |   🟡   |
+| 🤖 Predictive Modeling |   🟡   |
+| 📈 Model Evaluation    |   🔴   |
+| 🧠 Advanced Analytics  |   🔴   |
+
+**Legend**
+
+🟢 Learned / Practiced
+🟡 Currently Learning
+🔴 Yet to Explore
+
+---
+
+# 📂 Repository Structure
+
+The structure may evolve as my learning grows.
+
+```text
+SPSS_Modeler/
+│
+├── 📚 Learnings/
+│   ├── data_audit/
+│   ├── type_node/
+│   ├── filter_node/
+│   ├── derive_node/
+│   └── ...
+│
+├── 🧪 Practicals/
+│   ├── practical_01/
+│   ├── practical_02/
+│   ├── practical_03/
+│   └── ...
+│
+├── 📊 Datasets/
+│   ├── hotel_bookings.csv
+│   └── ...
+│
+├── 🧩 Streams/
+│   ├── practical_01.str
+│   ├── practical_02.str
+│   └── ...
+│
+├── 📸 Screenshots/
+│   ├── practical_01/
+│   ├── practical_02/
+│   └── ...
+│
+└── README.md
+```
+
+---
+
+# 🏨 Example: Dataset Practice
+
+One of the datasets I work with during my learning is the **Hotel Bookings dataset**.
+
+Instead of just keeping the dataset, I use it to practice different SPSS Modeler concepts.
+
+```text
+Hotel Bookings Dataset
+          │
+          ▼
+      📥 Import
+          │
+          ▼
+      🧪 Data Audit
+          │
+          ▼
+       🏷️ Type
+          │
+          ▼
+       🔎 Filter
+          │
+          ▼
+       ➕ Derive
+          │
+          ▼
+     🔄 Reclassify
+          │
+          ▼
+      ✂️ Partition
+          │
+          ▼
+    📊 Analysis
+```
+
+The important part isn't just the final result.
+
+It's the **learning that happens while getting there.** 🧠
+
+---
+
+# 😂 Things You May Find Here
+
+### Before SPSS:
+
+> "This dataset looks simple."
+
+### After opening it:
+
+> "Why are there 30+ columns?" 😭
+
+---
+
+### When the stream finally works:
+
+> **IT WORKS! 🎉**
+
+### Five minutes later:
+
+> "Wait... why does it work?" 💀
+
+---
+
+### When Data Audit finds something unexpected:
+
+> **Data:** "Surprise!"
+> **Me:** "I didn't ask for surprises." 😭
+
+---
+
+# 🎯 Why I'm Keeping This Repository
+
+I'm not creating this repository just to store files.
+
+I'm using it as a **record of my learning journey**.
+
+It helps me:
+
+* Keep my practical work organized
+* Revisit concepts later
+* Track what I've learned
+* Understand my mistakes
+* Practice consistently
+* Build a reference for future projects
+* See how my skills improve over time
 
 Basically:
 
-> **Before asking the data a question, first check whether the data is awake. ☕**
+> **GitHub = my SPSS Modeler notebook, but with version control. 😎**
 
 ---
 
-### 🏷️ 3. Type Node
+# 🚀 This Repository Is a Work in Progress
 
-Understanding and defining the role and measurement level of variables.
+This repository will **grow continuously**.
 
-Examples:
+As I learn new concepts, complete new practicals, or experiment with new datasets, I'll keep adding them here.
 
-```text
-Field
- ├── Input
- ├── Target
- ├── None
- └── Partition
-```
-
-Measurement levels may include:
+So don't expect everything to be here at once.
 
 ```text
-Nominal
-Ordinal
-Continuous
-```
-
----
-
-### 🔎 4. Filter Node
-
-Removing unnecessary fields from the dataset.
-
-```text
-Too Many Columns
-       ↓
-     Filter
-       ↓
-Only Relevant Columns
-```
-
-Because sometimes the dataset has **50 columns and only 7 actually matter.** 😭
-
----
-
-### ➕ 5. Derive Node
-
-Creating new variables from existing variables.
-
-Example:
-
-```text
-Age + Income + Spending
-          ↓
-    Derived Feature
-```
-
-This helps transform raw information into useful features for analysis and modeling.
-
----
-
-### 🔄 6. Reclassify Node
-
-Grouping or transforming existing categories into more meaningful classes.
-
-Example:
-
-```text
-Age
-
-18–25  ──────► Young
-26–40  ──────► Adult
-41+    ──────► Senior
+Today
+  ↓
+📚 Learn
+  ↓
+🧪 Practice
+  ↓
+📁 Upload
+  ↓
+🔁 Repeat
+  ↓
+Tomorrow
+  ↓
+🧠 Know More
 ```
 
 ---
 
-### ✂️ 7. Partition Node
+# 🌱 Learning > Perfection
 
-Splitting data into different subsets for modeling and evaluation.
+Some files here may be simple.
 
-Typical idea:
+Some may be messy.
+
+Some may show experiments.
+
+Some may show mistakes.
+
+And that's completely okay.
+
+Because this repository is not trying to say:
+
+> **"I already know everything about SPSS Modeler."**
+
+It's saying:
+
+> **"I'm learning, I'm practicing, and I'm documenting the journey."** 🚀
+
+---
+
+# 🧠 Current Mindset
 
 ```text
-                 Dataset
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-          Training        Testing
-             │             │
-             ▼             ▼
-          Learn Model    Evaluate
+Don't just use the node.
+             ↓
+Understand the node.
+             ↓
+Don't just get the output.
+             ↓
+Understand the output.
+             ↓
+Don't just finish the practical.
+             ↓
+Learn something from it.
 ```
 
 ---
 
-# 📚 Practical Work
+# 📈 The Journey
 
-> This section will grow as I complete more practicals.
+<p align="center">
 
-<details>
-<summary>📌 Practical 01 — Data Import & Initial Exploration</summary>
+### 📚 Learn
 
-### 🎯 Objective
+**↓**
 
-Import a dataset into SPSS Modeler and understand its basic structure.
+### 🧪 Practice
 
-### 🧩 Main Tasks
+**↓**
 
-* Import dataset
-* Identify fields
-* Understand data types
-* Inspect records
-* Perform initial exploration
+### 🔍 Understand
 
-### 🧠 Key Learning
+**↓**
 
-The first step in data mining is not modeling.
+### 📝 Document
 
-It's **understanding what you actually have.**
+**↓**
 
-</details>
+### 🚀 Improve
+
+</p>
 
 ---
 
-<details>
-<summary>🔍 Practical 02 — Data Audit</summary>
+## ⭐ One Practical at a Time.
 
-### 🎯 Objective
+## One Concept at a Time.
 
-Perform a detailed audit of the dataset.
+## One Dataset at a Time.
 
-### 🧩 Node Used
-
-`Data Audit`
-
-### 🔎 Things Investigated
-
-* Missing values
-* Invalid values
-* Distribution
-* Minimum / maximum values
-* Mean
-* Standard deviation
-* Field characteristics
-
-### 💡 Learning
-
-> **Data quality comes before model quality.**
-
-</details>
+### And hopefully... fewer "Why is this happening?" moments. 😂
 
 ---
 
-<details>
-<summary>🏷️ Practical 03 — Defining Data Types</summary>
+<p align="center">
 
-### 🎯 Objective
+**Made while learning IBM SPSS Modeler. 📊🧠**
 
-Define the appropriate field roles and measurement levels.
+<br>
 
-### 🧩 Node Used
+`Learning in public • Practicing • Experimenting • Improving`
 
-`Type`
-
-### Example
-
-```text
-Student_ID     → None
-Age            → Input
-Study_Hours    → Input
-Result         → Target
-```
-
-### 💡 Learning
-
-The model needs to know:
-
-> **"Which column am I supposed to predict?"** 🤖
-
-</details>
-
----
-
-<details>
-<summary>🔎 Practical 04 — Filtering Data</summary>
-
-### 🎯 Objective
-
-Remove unnecessary fields and retain only relevant information.
-
-### 🧩 Node Used
-
-`Filter`
-
-### Example
-
-```text
-Original Dataset
-      ↓
-   20 Fields
-      ↓
-    Filter
-      ↓
-   12 Fields
-```
-
-### 💡 Learning
-
-More columns ≠ automatically better analysis.
-
-Sometimes less is more. 😌
-
-</details>
-
----
-
-<details>
-<summary>➕ Practical 05 — Deriving New Fields</summary>
-
-### 🎯 Objective
-
-Create meaningful new variables from existing data.
-
-### 🧩 Node Used
-
-`Derive`
-
-### Example
-
-```text
-Marks Obtained
-       +
-Total Marks
-       ↓
-Percentage
-```
-
-### 💡 Learning
-
-Feature engineering can turn raw information into something much more useful.
-
-</details>
-
----
-
-<details>
-<summary>🔄 Practical 06 — Reclassifying Data</summary>
-
-### 🎯 Objective
-
-Convert detailed values into meaningful categories.
-
-### 🧩 Node Used
-
-`Reclassify`
-
-### Example
-
-```text
-Score
- │
- ├── 0–40    → Low
- ├── 41–70   → Medium
- └── 71–100  → High
-```
-
-### 💡 Learning
-
-Sometimes categories make patterns easier to un
+</p>
